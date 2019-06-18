@@ -1,7 +1,3 @@
----
-layout: post
-title:  "Hello World! Hello My First Post on Github Pages!"
----
 
 # Welcome
 
