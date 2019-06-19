@@ -5,190 +5,159 @@ title:  "Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation, From Te
 
 # Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation, From Teacher Danning
 
+## Step 1
 
-# Step 1
-
-## White
+White
 
 ![Step 1, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step01_a_white.svg)
 
-# Step 2
+Black
 
-## Black
+![Step 1, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step01_b_black.svg)
 
-![Step 2, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step01_b_black.svg)
+## Step 2
 
-# Step 2
-
-## White
+White
 
 ![Step 2, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step02_a_white.svg)
 
-# Step 3
+Black
 
-## Black
+![Step 2, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step02_b_black.svg)
 
-![Step 3, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step02_b_black.svg)
+## Step 3
 
-# Step 3
-
-## White
+White
 
 ![Step 3, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step03_a_white.svg)
 
-# Step 4
+Black
 
-## Black
+![Step 3, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step03_b_black.svg)
 
-![Step 4, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step03_b_black.svg)
+## Step 4
 
-# Step 4
-
-## White
+White
 
 ![Step 4, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step04_a_white.svg)
 
-# Step 5
+Black
 
-## Black
+![Step 4, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step04_b_black.svg)
 
-![Step 5, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step04_b_black.svg)
+## Step 5
 
-# Step 5
-
-## White
+White
 
 ![Step 5, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step05_a_white.svg)
 
-# Step 6
+Black
 
-## Black
+![Step 5, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step05_b_black.svg)
 
-![Step 6, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step05_b_black.svg)
+## Step 6
 
-# Step 6
-
-## White
+White
 
 ![Step 6, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step06_a_white.svg)
 
-# Step 7
+Black
 
-## Black
+![Step 6, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step06_b_black.svg)
 
-![Step 7, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step06_b_black.svg)
+## Step 7
 
-# Step 7
-
-## White
+White
 
 ![Step 7, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step07_a_white.svg)
 
-# Step 8
+Black
 
-## Black
+![Step 7, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step07_b_black.svg)
 
-![Step 8, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step07_b_black.svg)
+## Step 8
 
-# Step 8
-
-## White
+White
 
 ![Step 8, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step08_a_white.svg)
 
-# Step 9
+Black
 
-## Black
+![Step 8, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step08_b_black.svg)
 
-![Step 9, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step08_b_black.svg)
+## Step 9
 
-# Step 9
-
-## White
+White
 
 ![Step 9, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step09_a_white.svg)
 
-# Step 10
+Black
 
-## Black
+![Step 9, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step09_b_black.svg)
 
-![Step 10, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step09_b_black.svg)
+## Step 10
 
-# Step 10
-
-## White
+White
 
 ![Step 10, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step10_a_white.svg)
 
-# Step 11
+Black
 
-## Black
+![Step 10, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step10_b_black.svg)
 
-![Step 11, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step10_b_black.svg)
+## Step 11
 
-# Step 11
-
-## White
+White
 
 ![Step 11, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step11_a_white.svg)
 
-# Step 12
+Black
 
-## Black
+![Step 11, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step11_b_black.svg)
 
-![Step 12, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step11_b_black.svg)
+## Step 12
 
-# Step 12
-
-## White
+White
 
 ![Step 12, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step12_a_white.svg)
 
-# Step 13
+Black
 
-## Black
+![Step 12, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step12_b_black.svg)
 
-![Step 13, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step12_b_black.svg)
+## Step 13
 
-# Step 13
-
-## White
+White
 
 ![Step 13, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step13_a_white.svg)
 
-# Step 14
+Black
 
-## Black
+![Step 13, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step13_b_black.svg)
 
-![Step 14, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step13_b_black.svg)
+## Step 14
 
-# Step 14
-
-## White
+White
 
 ![Step 14, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step14_a_white.svg)
 
-# Step 15
+Black
 
-## Black
+![Step 14, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step14_b_black.svg)
 
-![Step 15, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step14_b_black.svg)
+## Step 15
 
-# Step 15
-
-## White
+White
 
 ![Step 15, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step15_a_white.svg)
 
-# Step 16
+Black
 
-## Black
+![Step 15, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step15_b_black.svg)
 
-![Step 16, Black ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step15_b_black.svg)
+## Step 16
 
-# Step 16
-
-## White
+White
 
 ![Step 16, White ](/img/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian-defence_argentina_step16_a_white.svg)
 
