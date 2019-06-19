@@ -5,20 +5,6 @@ title:  "Chess Opening: Two Knights Defense"
 
 # Two Knights Defense
 
----
-layout: post
-title:  "Chess Opening: Two Knights Defense"
----
-
-# Two Knights Defense
-
----
-layout: post
-title:  "Chess Opening: Two Knights Defense"
----
-
-# Two Knights Defense
-
 ## Step 01
 
 White
