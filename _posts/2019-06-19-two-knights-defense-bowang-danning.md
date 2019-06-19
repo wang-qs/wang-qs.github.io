@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Opening: Two Knights Defense"
+title:  "Chess Opening: Two Knights Defense"
 ---
 
 # Two Knights Defense

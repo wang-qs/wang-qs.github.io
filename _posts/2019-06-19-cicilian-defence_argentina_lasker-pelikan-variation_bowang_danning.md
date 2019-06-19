@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation, From Teacher Danning"
+title:  "Chess Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation"
 ---
 
-# Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation, From Teacher Danning
+# Chess Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation
 
 ## Step 1
 
