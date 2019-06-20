@@ -17,6 +17,7 @@ title:  "Chess Opening: 西西里防御- 阿根廷变例 ( Cicilian Defence, Arg
 
 ![ Memo 04 ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_memo_04.jpg)
 
+
 ## Step 1
 
 White
