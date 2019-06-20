@@ -1,9 +1,21 @@
 ---
 layout: post
-title:  "Chess Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation"
+title:  "Chess Opening: 西西里防御 - 阿根廷变例 ( Cicilian Defence, Argentina, Lasker-Pelikan Variation )"
 ---
 
 # Chess Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation
+
+## Manual and Memo
+
+![ Manual ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_manual_01.jpg)
+
+![ Memo 01 ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_memo_01.jpg)
+
+![ Memo 02 ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_memo_02.jpg)
+
+![ Memo 03 ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_memo_03.jpg)
+
+![ Memo 04 ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_memo_04.jpg)
 
 ## Step 1
 
