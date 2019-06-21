@@ -14,6 +14,11 @@ This page is a summry of the following learning resources.
 * 第二章 第10节 残局-王单兵对单王（上、下） @youku.com 
 * https://en.wikipedia.org/wiki/King_and_pawn_versus_king_endgame
 
+And here are some key points to keep in mind. 
+
+* 王兵残局(尤其在学习了关键格之后), 思路要先动王, 把王冲到最优的位置之后再动兵. 没有明确理由(等招,应用储备招)除外, 避免先冲兵. 
+
+
 ## About Pawn's Promotion
 
 ![promotion_01](/asserts/chess/ending/king_and_pawn_vs_king/1.promotion_01.jpg)
@@ -101,4 +106,14 @@ This page is a summry of the following learning resources.
 ![key_square_summary_15](/asserts/chess/ending/king_and_pawn_vs_king/4.key_square_summary_15.jpg)
 
 ![key_square_summary_16](/asserts/chess/ending/king_and_pawn_vs_king/4.key_square_summary_16.jpg)
+
+# Memo
+
+![bowang_memo_01](/asserts/chess/ending/king_and_pawn_vs_king/5.bowang_memo_01.jpg)
+
+![bowang_memo_02](/asserts/chess/ending/king_and_pawn_vs_king/5.bowang_memo_02.jpg)
+
+![bowang_memo_03](/asserts/chess/ending/king_and_pawn_vs_king/5.bowang_memo_03.jpg)
+
+![bowang_memo_04](/asserts/chess/ending/king_and_pawn_vs_king/5.bowang_memo_04.jpg)
 
