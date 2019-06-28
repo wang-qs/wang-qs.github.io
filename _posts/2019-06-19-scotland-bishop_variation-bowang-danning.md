@@ -3,7 +3,25 @@ layout: post
 title:  "Chess Opening: 苏格兰开局,出象变例 ( Scotland Bishop Variation )"
 ---
 
-# Chess Opening: 苏格兰开局,出象变例 ( Scotland Bishop Variation )
+# 苏格兰开局,出象变例
+
+## Some Key Points
+
+### Hightlights
+
+* 王车易位前F兵不要随意动. 
+* 扇形控马
+* 注意第六步, 黑棋Nge7的目的是一下不d5反击
+* 注意第九步, 如果黑棋Qe4脱离正谱, 白棋应该Nd2, 黑Qd5, 白Nb5进行回击.
+
+### Bowang Memo
+
+![Bowang, memo 01 ](/assert/chess/opening/scotland_bishop_variation_bw_danning/00_bowang_scotland_bishop_variation_01.jpg)
+
+![Bowang, memo 02 ](/assert/chess/opening/scotland_bishop_variation_bw_danning/00_bowang_scotland_bishop_variation_02.jpg)
+
+![Bowang, memo 03 ](/assert/chess/opening/scotland_bishop_variation_bw_danning/00_bowang_scotland_bishop_variation_03.jpg)
+
 
 ## Step 1
 
