@@ -12,6 +12,10 @@ title:  "Chess Opening: 西班牙开局,兑换变例 ( Spanish Opening, Exchange
 * 西班牙开局兑换变例, 步骤比较多. 每一步的可能性也比较多, 要注意在理解的基础上进行记忆. 
 * T.B.D
 
+### Resources
+
+* https://en.wikipedia.org/wiki/Ruy_Lopez
+
 ### Bowang Memo
 
 ![Bowang Memo 01 ](/asserts/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_bw_memo_01.jpg)
@@ -34,47 +38,47 @@ title:  "Chess Opening: 西班牙开局,兑换变例 ( Spanish Opening, Exchange
 
 ## Step 1: e4, e5
 
-![Step 1, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step01_a_white.svg)
+![Step 1, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step01_a_white.svg)
 
 White Comment: 
 
-![Step 1, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step01_b_black.svg)
+![Step 1, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step01_b_black.svg)
 
 Black Comment: 
 
 ## Step 2: Nf3, Nc6
 
-![Step 2, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step02_a_white.svg)
+![Step 2, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step02_a_white.svg)
 
 White Comment: 
 
-![Step 2, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step02_b_black.svg)
+![Step 2, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step02_b_black.svg)
 
 Black Comment: 
 
 ## Step 3: Bb5, a6
 
-![Step 3, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step03_a_white.svg)
+![Step 3, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step03_a_white.svg)
 
 White Comment: 目的是吃马, 消保中心兵. 进而攻击中心兵.
 
-![Step 3, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step03_b_black.svg)
+![Step 3, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step03_b_black.svg)
 
 Black Comment: 
 
 ## Step 4: Bxc6, dxc6
 
-![Step 4, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step04_a_white.svg)
+![Step 4, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step04_a_white.svg)
 
 White Comment: 
 
-![Step 4, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step04_b_black.svg)
+![Step 4, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step04_b_black.svg)
 
 Black Comment: 用d兵去吃, 而不是b兵, 目的是打开后和象的线路.
 
 ## Step 5: O-O, f6
 
-![Step 5, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step05_a_white.svg)
+![Step 5, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step05_a_white.svg)
 
 White Comment: 王车易位的目的是,
 下一步棋想要Nd5吃中心兵.
@@ -98,7 +102,7 @@ Qd4是正确的应对招法,
 相反,
 如果当下错失机会给对方以缓冲和调整的时间的话, 将会错过机会反而形成劣势.
 
-![Step 5, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step05_b_black.svg)
+![Step 5, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step05_b_black.svg)
 
 Black Comment: 黑棋的目的是守住中心兵,
 防止白棋Nd5.
@@ -112,11 +116,11 @@ Black Comment: 黑棋的目的是守住中心兵,
 
 ## Step 6: d4, exd4
 
-![Step 6, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step06_a_white.svg)
+![Step 6, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step06_a_white.svg)
 
 White Comment: 继续加强和进攻中心.
 
-![Step 6, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step06_b_black.svg)
+![Step 6, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step06_b_black.svg)
 
 Black Comment: 问题:
 在ed, Bg4和Bd6这三种黑棋的应对方法中, 哪个招法不行?
@@ -132,32 +136,32 @@ Rd3, Bd6". 另一种招法ed也可以,
 
 ## Step 7: Nxd4, c5
 
-![Step 7, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step07_a_white.svg)
+![Step 7, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step07_a_white.svg)
 
 White Comment: 
 
-![Step 7, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step07_b_black.svg)
+![Step 7, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step07_b_black.svg)
 
 Black Comment: 赶马.
 
 ## Step 8: Nb3, Qxd1
 
-![Step 8, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step08_a_white.svg)
+![Step 8, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step08_a_white.svg)
 
 White Comment: 这一步Ne2也可以,
 但是走的人比较少.
 
-![Step 8, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step08_b_black.svg)
+![Step 8, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step08_b_black.svg)
 
 Black Comment: 
 
 ## Step 9: Rxd1, Bg4
 
-![Step 9, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step09_a_white.svg)
+![Step 9, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step09_a_white.svg)
 
 White Comment: 
 
-![Step 9, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step09_b_black.svg)
+![Step 9, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step09_b_black.svg)
 
 Black Comment: Bg4这个招法叫过门(过门: 我们本来有一个计划, 有一个位置想去,
 但是因为某种原因暂时无法过去, 通过过门,
@@ -175,61 +179,61 @@ Nd5, Bd6(注意不能c6,
 
 ## Step 10: f3, Bd7
 
-![Step 10, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step10_a_white.svg)
+![Step 10, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step10_a_white.svg)
 
 White Comment: 
 
-![Step 10, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step10_b_black.svg)
+![Step 10, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step10_b_black.svg)
 
 Black Comment: 有了上一步的Bg4做准备, 现在Bd7, 一小步准备长易位.
 
 ## Step 11: Bf4, O-O-O
 
-![Step 11, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step11_a_white.svg)
+![Step 11, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step11_a_white.svg)
 
 White Comment: 
 
-![Step 11, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step11_b_black.svg)
+![Step 11, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step11_b_black.svg)
 
 Black Comment: 
 
 ## Step 12: Nc3, c4
 
-![Step 12, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step12_a_white.svg)
+![Step 12, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step12_a_white.svg)
 
 White Comment: 
 
-![Step 12, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step12_b_black.svg)
+![Step 12, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step12_b_black.svg)
 
 Black Comment: 
 
 ## Step 13: Na5, Bc5+
 
-![Step 13, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step13_a_white.svg)
+![Step 13, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step13_a_white.svg)
 
 White Comment: 
 
-![Step 13, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step13_b_black.svg)
+![Step 13, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step13_b_black.svg)
 
 Black Comment: 
 
 ## Step 14: Kf1, b5
 
-![Step 14, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step14_a_white.svg)
+![Step 14, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step14_a_white.svg)
 
 White Comment: 
 
-![Step 14, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step14_b_black.svg)
+![Step 14, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step14_b_black.svg)
 
 Black Comment: 
 
 ## Step 15: Nd5, Ne7
 
-![Step 15, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step15_a_white.svg)
+![Step 15, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step15_a_white.svg)
 
 White Comment: 
 
-![Step 15, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step15_b_black.svg)
+![Step 15, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step15_b_black.svg)
 
 Black Comment: 不能c6, 否则白棋b4,
 然后黑棋的"1.吃马; 2.吃过路兵; 3.跑象"这三种可能的应对方法,
@@ -243,63 +247,63 @@ Nc5, ...",
 
 ## Step 16: Bxc7, Nxd5
 
-![Step 16, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step16_a_white.svg)
+![Step 16, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step16_a_white.svg)
 
 White Comment: 不能Nc7,
 否则Nb6捉双.
 
-![Step 16, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step16_b_black.svg)
+![Step 16, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step16_b_black.svg)
 
 Black Comment: 
 
 ## Step 17: Rxd5, Kxc7
 
-![Step 17, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step17_a_white.svg)
+![Step 17, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step17_a_white.svg)
 
 White Comment: 不能象吃车(Nd8),
 否则黑棋Ne3捉双.
 
-![Step 17, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step17_b_black.svg)
+![Step 17, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step17_b_black.svg)
 
 Black Comment: 
 
 ## Step 18: Rxc5+, Kb6
 
-![Step 18, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step18_a_white.svg)
+![Step 18, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step18_a_white.svg)
 
 White Comment: 
 
-![Step 18, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step18_b_black.svg)
+![Step 18, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step18_b_black.svg)
 
 Black Comment: 
 
 ## Step 19: b4, cxb3
 
-![Step 19, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step19_a_white.svg)
+![Step 19, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step19_a_white.svg)
 
 White Comment: 
 
-![Step 19, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step19_b_black.svg)
+![Step 19, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step19_b_black.svg)
 
 Black Comment: 吃过路兵.
 
 ## Step 20: Nxb3, Be6
 
-![Step 20, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step20_a_white.svg)
+![Step 20, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step20_a_white.svg)
 
 White Comment: 
 
-![Step 20, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step20_b_black.svg)
+![Step 20, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step20_b_black.svg)
 
 Black Comment: 
 
 ## Step 21: Rc3, Rd6
 
-![Step 21, White ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step21_a_white.svg)
+![Step 21, White ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step21_a_white.svg)
 
 White Comment: 
 
-![Step 21, Black ](/img/chess/opening/spanish_opening_exchange_variation/scotland_knight_variation_step21_b_black.svg)
+![Step 21, Black ](/img/chess/opening/spanish_opening_exchange_variation/spanish_opening_exchange_variation_step21_b_black.svg)
 
 Black Comment: 正常棋谱到21步Rc3结束,
 这步Rd6是老师给出的额外招法, 目的是准备叠车.
