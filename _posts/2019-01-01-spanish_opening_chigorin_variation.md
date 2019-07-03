@@ -125,7 +125,7 @@ White Comment:
 
 ![Step 11, Black ](/img/chess/opening/spanish_opening_chigorin_variation/spanish_opening_chigorin_variation_step11_b_black.svg)
 
-Black Comment: ===关键，这步王与泽总是回马守兵e5,
+Black Comment: ===关键，这步Zeze总是回马守兵e5,
 而不是出后防守===。
 黑棋的目的是加强对e5的子力。黑棋开始基本上都是破坏或者防守住白棋的意图，然后再尽量穿插自己的小意图。
 
