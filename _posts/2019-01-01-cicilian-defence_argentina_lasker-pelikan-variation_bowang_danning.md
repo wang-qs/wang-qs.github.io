@@ -3,9 +3,19 @@ layout: post
 title:  "Chess Opening: 西西里防御- 阿根廷变例 ( Cicilian Defence, Argentina, Lasker-Pelikan Variation )"
 ---
 
-# Chess Opening: Cicilian Defence, Argentina, Lasker-Pelikan Variation
+# 西西里防御- 阿根廷变例
 
-## Manual and Memo
+## Memo and Resources
+
+### Resrouces
+
+* https://en.wikipedia.org/wiki/Sicilian_Defence
+
+### Highlights
+
+* T.B.D
+
+### Bowang Memo
 
 ![ Manual ](/asserts/chess/opening/cicilian-defence_argentina_argentina-variation_bw_danning/cicilian_argentina_bw_dn_manual_01.jpg)
 

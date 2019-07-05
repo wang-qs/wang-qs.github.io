@@ -3,7 +3,7 @@ layout: post
 title:  "Chess Opening: 双马防御 ( Two Knights Defense )"
 ---
 
-# Two Knights Defense
+# 双马防御
 
 ## Step 1: e4, e5
 
