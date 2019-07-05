@@ -16,6 +16,10 @@ title:  "Chess Opening: 西西里防御- 龙式体系( Cicilian Defence, Dragon 
 
 * T.B.D
 
+### Bowang Memo
+
+![Bowang 2018-2019 冬训 棋谱笔记 ](/asserts/chess/opening/cicilian_defence_dragon_variation_bw_danning/cicilian_defence_dragon_variation_bowang_manual.jpg)
+
 ## Step 1: e4, c5
 
 ![Step 1, White ](/img/chess/opening/cicilian_defence_dragon_variation_bw_danning/cicilian_defence_dragon_variation_bw_danning_step01_a_white.svg)
@@ -138,7 +142,7 @@ White Comment:
 
 Black Comment: 
 
-## Step 13: Bxc4, Rxc4
+## Step 13: Bxc4, Rxc4 (冬训棋谱至此结束, 剩下的棋谱是从小象视频整理过来的)
 
 ![Step 13, White ](/img/chess/opening/cicilian_defence_dragon_variation_bw_danning/cicilian_defence_dragon_variation_bw_danning_step13_a_white.svg)
 
@@ -198,7 +202,9 @@ White Comment:
 
 Black Comment: 
 
-## Step 19: Rd3, R4c5
+#　黑棋第19步的一个错误应对方法的举例
+
+## Step 19: Rd3, R4c5??
 
 ![Step 19, White ](/img/chess/opening/cicilian_defence_dragon_variation_bw_danning/cicilian_defence_dragon_variation_bw_danning_step19_a_white.svg)
 

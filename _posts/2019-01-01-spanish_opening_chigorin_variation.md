@@ -15,6 +15,10 @@ title:  "Chess Opening: 西班牙开局,齐国林变例 ( Spanish Opening, Chigo
 
 * https://en.wikipedia.org/wiki/Ruy_Lopez
 
+### 博望2018-2019冬训棋谱
+
+![博望2018-2019冬训棋谱 ](/asserts/chess/opening/spanish_opening_chigorin_variation/spanish_opening_chigorin_variation_bowang_manual.jpg)
+
 ## Step 1: e4, e5
 
 ![Step 1, White ](/img/chess/opening/spanish_opening_chigorin_variation/spanish_opening_chigorin_variation_step01_a_white.svg)
