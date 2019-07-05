@@ -1,0 +1,15 @@
+[Event "意大利开局 垫马变例 - 丹宁老师讲解"]
+[Site "博望国象冬训"]
+[Date "2019.02.01"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4 
+7. Nc3 {垫马变例}
+(7. Bd2 {垫象变例} 7... Bxd2 8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O 12. Rfe1 c6 13. Ne5 {(爱棋艺的棋谱:意一)垫象变例结束。}) 
+7... Nxe4 {(棋谱回到)垫马变例。} 
+8. O-O Nxc3 {这步必须用象吃Bxc3，如果像这样用用马Nxc3吃的话, 讲陷入陷阱，陷阱棋谱如下。}  9. bxc3 Bxc3 10. Qb3 Bxa1 11. Bxf7 Kf8 12. Bg5 Ne7 13. Ne5 Bxd4 14. Bg6 d5 15. Qf3 Bf5 16. Bxf5 Bxe5 17. Be6 Bf6 18. Bxf6
+gxf6 19. Qxf6 Ke8 20. Qf7  *
+
