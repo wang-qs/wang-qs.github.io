@@ -57,6 +57,11 @@ EFN:
 
 > r1bq1rk1/2pn1ppp/pb2p3/1p1pP3/3P3P/2PB1N2/PP3PP1/R1BQ1RK1 w - - 0 1
 
+PGN - One branch of above EFN:
+
+> 1. Bxh7 Kxh7 2. Ng5 Kg8 3. Qh5 Re8 4. Qxf7 Kh8 5. Qh5 Kg8 6. Qh7 Kf8 7. Qh8 Ke7 8. Qxg7# 1-0
+
+
 Some keypoints 
 
 * Need light square bishop on the b1-h7 diagonal
