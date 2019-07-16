@@ -55,7 +55,7 @@ Keypoints:
 
 EFN:
 
-> rn1q1rk1/pp1bnppp/1bp1p3/3pP3/3P4/2PB1N2/PP3PPP/RNBQ1RK1 w - - 0 1
+> r1bq1rk1/2pn1ppp/pb2p3/1p1pP3/3P3P/2PB1N2/PP3PP1/R1BQ1RK1 w - - 0 1
 
 Some keypoints 
 
