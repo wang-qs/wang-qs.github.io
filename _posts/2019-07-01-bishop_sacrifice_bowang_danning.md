@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "弃象(Bishop Sacrifice)"
+title:  "Tactics: 弃象(Bishop Sacrifice)"
 ---
 
 # 博望 2019.07.14
